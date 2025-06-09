@@ -48,7 +48,7 @@ const DualLoginPage = () => {
             onMouseEnter={(e) => e.currentTarget.style.boxShadow = '0 6px 20px rgba(255, 111, 0, 0.5)'}
             onMouseLeave={(e) => e.currentTarget.style.boxShadow = '0 4px 12px rgba(255, 111, 0, 0.3)'}
           >
-            כניסה jj למבקש שירות
+            כניסה למבקש שירות
           </button>
         </div>
         <footer className="footer">
